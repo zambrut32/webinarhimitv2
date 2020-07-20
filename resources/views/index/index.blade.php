@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="icon" href="{{asset('img/HIMIT.png')}}" type="image/png" sizes="16x16">
 
     <title>Event Himit</title>
 

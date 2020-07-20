@@ -5,7 +5,7 @@
                 <div class="section">
                 <div class="container">
                     <h2 style="text-align: center">Form Pengumpulan Link Project <br>
-                        Webinar Laravel Fundamental</h2><br><br>
+                        </h2><br><br>
                     <form action="{{ route('tambahdata')}}" method="POST">
                         @csrf
                         <div class="row">
@@ -19,7 +19,7 @@
                                     <input type="text" name="email" class="form-control border-input" required placeholder="enter email here...">
                                 </div>
                                 <div class="form-group">
-                                    <h6>Webinar Yang Di ikuti <span class="icon-danger">*</span></h6>
+                                    <h6>Event Yang Di ikuti <span class="icon-danger">*</span></h6>
                                     <div id="menu-dropdown">
                                         <div class="title">
                                             <div class="form-group">

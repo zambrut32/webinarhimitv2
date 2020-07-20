@@ -6,6 +6,7 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <link rel="icon" href="{{asset('img/HIMIT.png')}}" type="image/png" sizes="16x16">
 
     <title>Event Himit</title>
 
